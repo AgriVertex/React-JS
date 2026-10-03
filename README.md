@@ -16,11 +16,11 @@ A professional React + Vite productivity dashboard designed as a GitHub portfoli
 - Reusable components
 - Clean folder structure
 
-## Tech Stack
+## Tech Stack---
 
 React, Vite, React Router, Recharts, Lucide React, CSS, LocalStorage.
 
-## Run locally
+## Run locally--
 
 ```bash
 npm install
